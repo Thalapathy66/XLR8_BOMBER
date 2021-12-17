@@ -129,7 +129,7 @@ Apache 2.0 © Anubhav Kashyap
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `mail us at: anubhavkashyap@pm.me`
+* `mail us at: introtechyt@gmail.com`
 
 ## Telegram Channel
 * `Join the Official Telegram channel of XLR8`
